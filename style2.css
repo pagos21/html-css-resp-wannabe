@@ -45,5 +45,6 @@
 
    #why .row img{
      max-width: 30%;
+     padding: 3$;
    }
 }
