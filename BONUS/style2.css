@@ -19,6 +19,10 @@
     float: none;
   }
 
+  #lezioni .row .right:not(h1, h3), #lezioni .row .left{
+    font-size: 1vw;
+   }
+
   #steps .row .right, #steps .row .left, #steps .row .central {
      width: 100%;
      float: none;
@@ -45,6 +49,7 @@
 
    #why .row img{
      max-width: 30%;
+     padding: 3%;
    }
 }
 
